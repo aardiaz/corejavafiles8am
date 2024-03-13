@@ -2,7 +2,6 @@ package oops;
 
 import abstraction.UserService;
 import abstraction.UserServiceImpl;
-import methods.MethodTest2;
 
 public class Test {
 	
